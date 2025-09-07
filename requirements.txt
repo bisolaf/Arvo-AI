@@ -1,0 +1,9 @@
+boto3
+requests
+gitpython
+paramiko
+python-dotenv
+openai>=1.0.0
+Flask==2.3.3
+
+
